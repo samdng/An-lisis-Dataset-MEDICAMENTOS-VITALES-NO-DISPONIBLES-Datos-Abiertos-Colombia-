@@ -3,7 +3,7 @@
 
 **Autores:** Samuel David Noriega Gaviria, Oscar Mauricio Monguí Piñeros, Jaider Santiago Peña Basto
 
-**Objetivo:** Analizar un dataset sobre la disponibilidad de medicamentos esenciales para identificar patrones y evaluar la gravedad de su impacto en enfermedades como tumores, diabetes y fibrosis.
+**Objetivo:** Analizar un dataset sobre la disponibilidad de medicamentos esenciales para identificar patrones y evaluar la gravedad de su impacto en distintas enfermedades.
 
 **Dataset:** [MEDICAMENTOS VITALES NO DISPONIBLES](https://www.datos.gov.co/Salud-y-Protecci-n-Social/MEDICAMENTOS-VITALES-NO-DISPONIBLES/sdmr-tfmf/data)
 

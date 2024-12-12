@@ -7,4 +7,6 @@
 
 **Dataset:** [MEDICAMENTOS VITALES NO DISPONIBLES](https://www.datos.gov.co/Salud-y-Protecci-n-Social/MEDICAMENTOS-VITALES-NO-DISPONIBLES/sdmr-tfmf/data)
 
+**Modelos:** DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Cross Validation, Deep-Learning, TSNE, KMeans, y, Algoritmos Geneticos.
+
 **Video:**

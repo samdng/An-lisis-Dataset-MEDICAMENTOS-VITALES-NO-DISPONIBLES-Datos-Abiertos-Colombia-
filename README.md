@@ -9,4 +9,4 @@
 
 **Modelos:** DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Cross Validation, Deep-Learning, TSNE, KMeans, y, Algoritmos Geneticos.
 
-**Video:**
+**Video:** [Medicamentos Vitales No Disponibles Proyecto Final IA 2024-2](https://youtu.be/o6iMDrKvLD4)
